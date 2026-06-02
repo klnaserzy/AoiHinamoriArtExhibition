@@ -1,1 +1,0 @@
-import{k as e,t,v as n,x as r}from"./index-_BSX0rgJ.js";var i={class:`avatar-wrapper`},a=[`src`],o=t({__name:`AoiAvatar`,setup(t){return(t,o)=>(e(),r(`div`,i,[n(`img`,{src:`/AoiHinamoriArtExhibition//images/Info/aoi-want-to-eat.png`,alt:`Aoi avatar`},null,8,a)]))}},[[`__scopeId`,`data-v-94e8ba5e`]]);export{o as t};

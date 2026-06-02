@@ -1,1 +1,0 @@
-import{I as e,l as t}from"./index-_BSX0rgJ.js";import{t as n}from"./mockRequest-Cjl-pF_B.js";var r=()=>n({url:`/chat`,method:`get`}),i=e=>n({url:`/chat`,method:`post`,data:e}),a=(e,t)=>n({url:`/chat/${e}`,method:`put`,data:t}),o=t(`chat`,()=>{let t=e([]);return{fetchChatData:async()=>{t.value=(await r()).data},chatMessage:t}});export{i as n,a as r,o as t};
